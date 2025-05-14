@@ -20,7 +20,7 @@ $ puck watch dd if=./example.iso of=/dev/sdb
 
 #### 1. Download Source Code
 ```console
-$ git clone https://github.com/joshburnsxyz/puck
+$ git clone https://github.com/bepisdev/puck
 ```
 
 #### 2. Run Build and Install Scripts
@@ -39,5 +39,5 @@ $ puck test
 > Requires `curl` to be installed on your system
 
 ```console
-$ curl -sf https://gobinaries.com/github.com/joshburnsxyz/puck | sh
+$ curl -sf https://gobinaries.com/github.com/bepisdev/puck | sh
 ```
